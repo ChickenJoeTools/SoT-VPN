@@ -1,0 +1,16 @@
+SoT-VPN is a Windows utility for Sea of Thieves that gives you control over which server regions you connect to.
+
+Features:
+
+Regional Filtering — choose exactly which regions you’re allowed to connect to; SoT-VPN blocks traffic to every other region at the firewall level, so matchmaking can only land you on the ones you picked
+VPN Buy — temporarily cut off traffic to all regions at once, a common technique for forcing a region re-roll on your next connection
+Live session info — see your current server’s region, IP, ping, port, and traffic stats while you play
+Built-in update checker — get notified when a newer version is available
+
+Requirements:
+
+Windows 10 (1809+) or Windows 11, 64-bit
+Administrator rights (needed to manage firewall rules and the packet-filtering driver)
+
+Installation:
+Download SoT-VPN-Setup-1.0.0.exe below and run it. The installer adds Start Menu and (optionally) Desktop shortcuts, and cleanly removes any firewall rules it created if you ever uninstall.
